@@ -85,6 +85,7 @@ I love finding patterns in data the same way others find meaning in art — both
 - [Data Manipulation with pandas](https://www.datacamp.com/completed/statement-of-accomplishment/course/33fd26087217495a4f2366e3ed50a18840e087ee)
 - [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/c98226de69a6376d32181e3630d998d8b1040bc7)
 - [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/d734fb8ebc7b863193ee0249f4082afd1539fe87)
+- [Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/verify/EMT5MHD66U4T)
 
 ---
 
