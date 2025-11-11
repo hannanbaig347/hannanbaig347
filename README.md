@@ -77,20 +77,17 @@ I love finding patterns in data the same way others find meaning in art — both
 ---
 
 ### 🏅 Certifications
-- Python Programming (DataCamp)  
-- Machine Learning (DataCamp)  
-- Introduction to Statistics in Python (DataCamp)
+- [Introduction to SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/0937e7bcc8c429c736f7cbd0fbc9c17b407621a6)
+- [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/completed/statement-of-accomplishment/course/e13e97088630f386f18d99ff49c6718aed81a1c6)
+- [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/completed/statement-of-accomplishment/course/38dbf8abd2a76a213704b4fe54ff2b3f444b0e83)
+- [Introduction to Statistics in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/75f94b68bfa3a72703684cb8723250c5c012268f)
+- [Joining Data with Pandas](https://www.datacamp.com/completed/statement-of-accomplishment/course/4c67786d21a91c7cd9403d314f29615899abb3aa)
+- [Data Manipulation with pandas](https://www.datacamp.com/completed/statement-of-accomplishment/course/33fd26087217495a4f2366e3ed50a18840e087ee)
+- [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/c98226de69a6376d32181e3630d998d8b1040bc7)
+- [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/d734fb8ebc7b863193ee0249f4082afd1539fe87)
 
 ---
 
-### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hannanbaig347&show_icons=true&locale=en&layout=compact" alt="hannanbaig347" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hannanbaig347&show_icons=true&locale=en" alt="hannanbaig347" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hannanbaig347&" alt="hannanbaig347" /></p>
-
----
 
 ### 🤝 Connect with Me
 <p align="left">
