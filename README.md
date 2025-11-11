@@ -36,7 +36,6 @@ I love finding patterns in data the same way others find meaning in art — both
 ---
 
 ### 🎯 Current Focus
-- Actively seeking a
 - Advancing my **MS Thesis** on **transfer learning-based air pollution estimation**.  
 - I’m **actively pursuing opportunities in Data Science, Artificial Intelligence, and Machine Learning**.
 - My MS thesis on **satellite- and meteorology-based air pollution modeling**, combined with applied experience in **predictive modeling, A/B testing, and customer analytics**, has strengthened my ability to translate data into real-world impact.
