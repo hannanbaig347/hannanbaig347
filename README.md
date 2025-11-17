@@ -25,13 +25,13 @@ I love finding patterns in data the same way others find meaning in art — both
 
 ---
 
-### 🚀 Featured Projects
-- 🧾 [Customer Churn Prediction](https://github.com/hannanbaig347/Predicting-Customer-Churn-in-Telecom-Using-Machine-Learning): ML models to predict customer attrition and improve retention strategy.  
-- 🏪 [Retail Sales Forecasting](https://github.com/hannanbaig347/retail-sales-forecasting): Time series forecasting using ARIMA, SARIMA, and Prophet for business planning.  
-- 💬 [Sentiment Analysis of Product Reviews](https://github.com/hannanbaig347/sentiment-analysis): NLP project for extracting insights from customer feedback.  
-- 🧩 [Customer Segmentation](https://github.com/hannanbaig347/customer-segmentation): K-Means and Hierarchical Clustering for targeted marketing.  
-- 🧪 [A/B Test Analysis](https://github.com/hannanbaig347/ab-test-analysis): Statistical testing to evaluate website feature performance.  
-- 🌍 [MS Thesis: AI for Air Pollution Estimation](https://github.com/hannanbaig347/air-pollution-estimation): Deep transfer learning using Sentinel-2 satellite imagery and meteorological data.
+###  Featured Projects
+-  [Customer Churn Prediction](https://github.com/hannanbaig347/Predicting-Customer-Churn-in-Telecom-Using-Machine-Learning): ML models to predict customer attrition and improve retention strategy.  
+-  [Retail Sales Forecasting](https://github.com/hannanbaig347/Forecasting-for-a-Retail-Store): Time series forecasting using ARIMA, SARIMA, and Prophet for business planning.  
+-  [Sentiment Analysis of Product Reviews](https://github.com/hannanbaig347/sentiment-analysis): NLP project for extracting insights from customer feedback.  
+-  [Customer Segmentation](https://github.com/hannanbaig347/customer-segmentation): K-Means and Hierarchical Clustering for targeted marketing.  
+-  [A/B Test Analysis](https://github.com/hannanbaig347/ab-test-analysis): Statistical testing to evaluate website feature performance.  
+-  [MS Thesis: AI for Air Pollution Estimation](https://github.com/hannanbaig347/air-pollution-estimation): Deep transfer learning using Sentinel-2 satellite imagery and meteorological data.
 
 ---
 
