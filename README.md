@@ -77,6 +77,7 @@ I love finding patterns in data the same way others find meaning in art — both
 ---
 
 ### 🏅 Certifications
+- [Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/74bbcd5c98d7699ea03be37f2c49a2db84d76f42)
 - [Introduction to SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/0937e7bcc8c429c736f7cbd0fbc9c17b407621a6)
 - [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/completed/statement-of-accomplishment/course/e13e97088630f386f18d99ff49c6718aed81a1c6)
 - [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/completed/statement-of-accomplishment/course/38dbf8abd2a76a213704b4fe54ff2b3f444b0e83)
