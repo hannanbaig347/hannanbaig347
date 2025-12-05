@@ -7,20 +7,20 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 I'm a Master's student in Computer Science at **NUST**, specializing in **Artificial Intelligence applications for environmental sustainability**.  
 My current research focuses on improving **air pollution estimation** by fusing **satellite imagery and meteorological data** using **deep transfer learning**.  
 I’m passionate about building **data-driven solutions** that bridge science and social impact — from climate change to intelligent business analytics.
 
 ---
 
-### 🌱 I’m currently learning
+###  I’m currently learning
 **Advanced Deep Learning techniques** for environmental data analysis — including **Transfer Learning**, **Domain Adaptation**, and **Time Series Forecasting**.
 
-### 💬 Ask me about
-**Data Science, Machine Learning, Deep Learning, Time Series Forecasting**, and **AI applications in Climate Change and Air Pollution Monitoring**.
+###  Ask me about
+**Data Science, Machine Learning, Deep Learning**, and **AI applications in Climate Change and Air Pollution Monitoring**.
 
-### ⚡ Fun fact
+###  Fun fact
 I love finding patterns in data the same way others find meaning in art — both reveal hidden stories!
 
 ---
@@ -33,7 +33,7 @@ I love finding patterns in data the same way others find meaning in art — both
 
 ---
 
-### 🎯 Current Focus
+###  Current Focus
 - Advancing my **MS Thesis** on **transfer learning-based air pollution estimation**.  
 - I’m **actively pursuing opportunities in Data Science, Artificial Intelligence, and Machine Learning**.
 - My MS thesis on **satellite- and meteorology-based air pollution modeling**, combined with applied experience in **predictive modeling, A/B testing, and customer analytics**, has strengthened my ability to translate data into real-world impact.
@@ -41,7 +41,7 @@ I love finding patterns in data the same way others find meaning in art — both
 
 ---
 
-### 🛠️ Languages and Tools
+###  Languages and Tools
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -74,7 +74,7 @@ I love finding patterns in data the same way others find meaning in art — both
 
 ---
 
-### 🏅 Certifications
+###  Certifications
 - [Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/74bbcd5c98d7699ea03be37f2c49a2db84d76f42)
 - [Introduction to SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/0937e7bcc8c429c736f7cbd0fbc9c17b407621a6)
 - [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/completed/statement-of-accomplishment/course/e13e97088630f386f18d99ff49c6718aed81a1c6)
@@ -89,7 +89,7 @@ I love finding patterns in data the same way others find meaning in art — both
 ---
 
 
-### 🤝 Connect with Me
+###  Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/hannan-baig-b10320325/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hannan-baig-b10320325/" height="30" width="40" />
