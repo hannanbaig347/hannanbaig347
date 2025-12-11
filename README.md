@@ -29,7 +29,8 @@ I love finding patterns in data the same way others find meaning in art — both
 -  [Customer Churn Prediction](https://github.com/hannanbaig347/Predicting-Customer-Churn-in-Telecom-Using-Machine-Learning): ML models to predict customer attrition and improve retention strategy.  
 -  [Retail Sales Forecasting](https://github.com/hannanbaig347/Forecasting-for-a-Retail-Store): Time series forecasting using ARIMA, SARIMA, and Prophet for business planning.  
 -  [Sentiment Analysis of Product Reviews](https://github.com/hannanbaig347/Customer_Review_Sentiment_Analysis_VADER_TextBlob_LogRegression): NLP project for extracting insights from customer feedback.  
--  [Customer Value Maximization Pipeline with Segmentation](https://github.com/hannanbaig347/customer-value-maximization-pipeline-with-segmentation): K-Means, Hierarchical Clustering & DBSCAN for targeted marketing.  
+-  [Customer Value Maximization Pipeline with Segmentation](https://github.com/hannanbaig347/customer-value-maximization-pipeline-with-segmentation): K-Means, Hierarchical Clustering & DBSCAN for targeted marketing.
+-  [AB Test Analysis for Website Feature](https://github.com/hannanbaig347/from-data-to-revenue-leveraging-AB-testing-to-enhance-conversion-and-engagement): A/B Testing Pipeline for a website feature with rigorous statistical tests (confidence intervals, t-tests, and power analysis)
 
 ---
 
