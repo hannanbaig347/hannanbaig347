@@ -71,6 +71,9 @@ I love finding patterns in data the same way others find meaning in art — both
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
   </a> 
+  <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.statsmodels.org/v0.14.4/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="40" height="40"/> 
+  </a>
 </p>
 
 ---
