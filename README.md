@@ -77,6 +77,9 @@ I love finding patterns in data the same way others find meaning in art — both
   <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.statsmodels.org/v0.14.4/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="40" height="40"/> 
   </a>
+  <a href="https://rasterio.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/53001455/226302342-f88b4bb8-7a4b-4888-abba-b330bd98e26f.png" alt="rasterio" width="40" height="40"/>
+  </a>
 </p>
 
 ---
