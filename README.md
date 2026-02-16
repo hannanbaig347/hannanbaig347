@@ -1,115 +1,73 @@
-<h1 align="center">Hi 👋, I'm Hannan</h1>
-<h3 align="center">Data Science | Artificial Intelligence | Machine Learning</h3>
+<h1 align="center"> Muhammad Hannan Baig </h1>  
+<h3 align = "center"> Data Analyst | Business Intelligence | Decision Support </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hannanbaig347&label=Profile%20views&color=0e75b6&style=flat" alt="hannanbaig347" />
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hannan-baig-b10320325/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadhannanbaig@gmail.com)
+---
+
+### Executive Summary
+
+I am a **Data Analyst** with a background in **public sector data management** working with high-volume, regulation-sensitive datasets (100,000+ records)
+
+
+I understand that data accuracy is not just technical—it is operational. I combine this administrative rigor with advanced technical skills in **Power BI, SQL, and Python** to build dashboards and models that monitor performance, detect risks, and forecast trends.
+
+
+### Analytics Portfolio
+
+#### 1. [Pakistan Large Scale Manufacturing (LSM) Monitor](https://github.com/hannanbaig347/Pakistan-LSM-PowerBI-Dashboard)
+**Domain:** Economic Policy & Industrial Monitoring  
+**Tools:** Power BI, DAX, Power Query, Excel  
+
+Built a structured industrial analytics dashboard analyzing Pakistan’s LSM sector across 31 industries.  
+
+- Measured weighted growth contributions  
+- Identified high-growth drivers vs. low-performing sectors  
+- Designed decision-ready visuals for policy and resource prioritization  
+- Applied DAX, data modeling, and structured ETL logic  
+
+Focus: Economic monitoring, sector diagnostics, policy-relevant insights.
+
+---
+#### 2. Geospatial Air Quality Analytics (MS Thesis)
+**Domain:** Environmental Sustainability & Urban Planning  
+**Tools:** Python (Pandas, Numpy, Rasterio, Seaborn, Scikit-Learn, Matplotlib), Satellite Imagery (Sentinel-2), Meteorological Data (ERA5)
+
+Developed a scalable air quality estimation framework for infrastructure-constrained regions using Sentinel-2 and ERA5 datasets..
+* **The Business Problem:** Physical sensors are expensive and scarce, leaving policymakers blind to pollution hotspots.
+* **The Solution:** Integrated satellite imagery and meteorological data to estimate NO2 (Nitrogen Dioxide) levels without ground sensors.
+* **Impact:** Achieved **66% data recovery** for unmonitored regions, providing a low-cost, scalable tool for environmental agencies to target interventions.
 
 ---
 
-### About Me
-I'm a Master's student in Computer Science at **NUST**, specializing in **Artificial Intelligence applications for environmental sustainability**.  
-My current research focuses on improving **air pollution estimation** by fusing **satellite imagery and meteorological data** using **deep transfer learning**.  
-I’m passionate about building **data-driven solutions** that bridge science and social impact — from climate change to intelligent business analytics.
+### Other Projects
+
+
+
+- [**Customer Churn Analysis**](https://github.com/hannanbaig347/Predicting-Customer-Churn-in-Telecom-Using-Machine-Learning) — Predicting customer attrition and gaining retention insights  
+- [**Retail Sales Forecasting**](https://github.com/hannanbaig347/Forecasting-for-a-Retail-Store) — SARIMA & Prophet for business planning  
+- [**Customer Segmentation**](https://github.com/hannanbaig347/customer-value-maximization-pipeline-with-segmentation) — Behavioral clustering for targeted strategy  
+- [**A/B Test Analysis**](https://github.com/hannanbaig347/from-data-to-revenue-leveraging-AB-testing-to-enhance-conversion-and-engagement) — Testing and impact evaluation for website  
+- [**Sentiment Analysis**](https://github.com/hannanbaig347/Customer_Review_Sentiment_Analysis_VADER_TextBlob_LogRegression) — Extracting insights from customer feedback 
 
 ---
 
-###  I’m currently learning
-**Advanced Deep Learning techniques** for environmental data analysis — including **Transfer Learning**, **Domain Adaptation**, and **Time Series Forecasting**.
+### Technical Toolkit
 
-###  Ask me about
-**Data Science, Machine Learning, Deep Learning**, and **AI applications in Climate Change and Air Pollution Monitoring**.
+**Business Intelligence & Data Modeling**  
+Power BI, Python, SQL, Excel 
 
-###  Fun fact
-I love finding patterns in data the same way others find meaning in art — both reveal hidden stories!
-
----
-
-###  Featured Projects
--  [Customer Churn Prediction](https://github.com/hannanbaig347/Predicting-Customer-Churn-in-Telecom-Using-Machine-Learning): ML models to predict customer attrition and improve retention strategy.  
--  [Retail Sales Forecasting](https://github.com/hannanbaig347/Forecasting-for-a-Retail-Store): Time series forecasting using ARIMA, SARIMA, and Prophet for business planning.  
--  [Sentiment Analysis of Product Reviews](https://github.com/hannanbaig347/Customer_Review_Sentiment_Analysis_VADER_TextBlob_LogRegression): NLP project for extracting insights from customer feedback.  
--  [Customer Value Maximization Pipeline with Segmentation](https://github.com/hannanbaig347/customer-value-maximization-pipeline-with-segmentation): K-Means, Hierarchical Clustering & DBSCAN for targeted marketing.
--  [AB Test Analysis for Website Feature](https://github.com/hannanbaig347/from-data-to-revenue-leveraging-AB-testing-to-enhance-conversion-and-engagement): A/B Testing Pipeline for a website feature with rigorous statistical tests (confidence intervals, t-tests, and power analysis)
+**Analytics & Statistical Methods**  
+Python (Pandas, NumPy, Scikit-Learn, Statsmodels)  
+Time-Series Forecasting (ARIMA, SARIMA, Prophet)  
+Hypothesis Testing (t-tests, z-tests, confidence intervals)  
+Classification & Regression (XGBoost, Random Forest)
 
 ---
+### Connect
 
-###  Current Focus
-- Advancing my **MS Thesis** on **transfer learning-based air pollution estimation**.  
-- I’m **actively pursuing opportunities in Data Science, Artificial Intelligence, and Machine Learning**.
-- My MS thesis on **satellite- and meteorology-based air pollution modeling**, combined with applied experience in **predictive modeling, A/B testing, and customer analytics**, has strengthened my ability to translate data into real-world impact.
-- Collaborating on **AI for Climate** and sustainability-focused open-source projects.
+I am available for **Data Analyst** and roles where I can apply structured thinking to operational and strategic challenges.
 
----
-
-###  Languages and Tools
-<p align="left"> 
-  <a href = "https://code.visualstudio.com/" target = "_blank" rel="nonreferrer">
-    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/250px-Visual_Studio_Code_1.35_icon.svg.png" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.statsmodels.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.statsmodels.org/v0.14.4/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="40" height="40"/> 
-  </a>
-  <a href="https://rasterio.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/53001455/226302342-f88b4bb8-7a4b-4888-abba-b330bd98e26f.png" alt="rasterio" width="70" height="70"/>
-  </a>
-  <a href="https://keras.io" target="_blank" rel="noreferrer">
-    <img src="https://keras.io/img/logo.png" alt="keras" width="70" height="70"/>
-  </a>
-</p>
-
----
-
-###  Certifications
-- [Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/74bbcd5c98d7699ea03be37f2c49a2db84d76f42)
-- [Introduction to SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/0937e7bcc8c429c736f7cbd0fbc9c17b407621a6)
-- [Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/completed/statement-of-accomplishment/course/e13e97088630f386f18d99ff49c6718aed81a1c6)
-- [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/completed/statement-of-accomplishment/course/38dbf8abd2a76a213704b4fe54ff2b3f444b0e83)
-- [Introduction to Statistics in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/75f94b68bfa3a72703684cb8723250c5c012268f)
-- [Joining Data with Pandas](https://www.datacamp.com/completed/statement-of-accomplishment/course/4c67786d21a91c7cd9403d314f29615899abb3aa)
-- [Data Manipulation with pandas](https://www.datacamp.com/completed/statement-of-accomplishment/course/33fd26087217495a4f2366e3ed50a18840e087ee)
-- [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/c98226de69a6376d32181e3630d998d8b1040bc7)
-- [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/d734fb8ebc7b863193ee0249f4082afd1539fe87)
-- [Introduction to Machine Learning](https://www.coursera.org/account/accomplishments/verify/EMT5MHD66U4T)
-
----
-
-
-###  Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/hannan-baig-b10320325/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hannan-baig-b10320325/" height="30" width="40" />
-  </a>
-</p>
-
----
-
-> “The best models don’t just predict — they help us understand the world better.”  
-> — My guiding principle in Data Science.
+* **Email:** muhammadhannanbaig@gmail.com
+* **LinkedIn:** [Hannan Baig](https://www.linkedin.com/in/hannan-baig-b10320325/)
