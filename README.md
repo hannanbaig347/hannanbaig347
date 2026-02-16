@@ -23,7 +23,8 @@ I understand that data accuracy is not just technical—it is operational. I com
 Built a structured industrial analytics dashboard analyzing Pakistan’s LSM sector across 31 industries.  
 
 - Measured weighted growth contributions  
-- Identified high-growth drivers vs. low-performing sectors  
+- Identified high-growth drivers vs. low-performing sectors
+- Revealed structural divergence masked by headline growth rates
 - Designed decision-ready visuals for policy and resource prioritization  
 - Applied DAX, data modeling, and structured ETL logic  
 
