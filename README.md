@@ -16,7 +16,7 @@ I understand that data accuracy is not just technical—it is operational. I com
 
 ### Analytics Portfolio
 
-#### 1. [Pakistan Large Scale Manufacturing (LSM) Monitor]([https://github.com/hannanbaig347/Pakistan-LSM-PowerBI-Dashboard](https://github.com/hannanbaig347/pakistan-large-scale-manufacturing-powerBI-dashboard))
+#### 1. [Pakistan Large Scale Manufacturing (LSM) PowerBI Dashboard](https://github.com/hannanbaig347/pakistan-large-scale-manufacturing-powerBI-dashboard)
 **Domain:** Economic Policy & Industrial Monitoring  
 **Tools:** Power BI, DAX, Power Query, Excel  
 
