@@ -1,4 +1,4 @@
-<h1 align="center"> Muhammad Hannan Baig </h1>  
+<h1 align="center"> Hannan Baig </h1>  
 <h3 align = "center"> Data Analyst | Business Intelligence | Decision Support </h3>
 
 
