@@ -2,21 +2,35 @@
 <h3 align = "center"> Data Analyst | Business Intelligence | Decision Support </h3>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hannan-baig-b10320325/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hannan-baig/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadhannanbaig@gmail.com)
 ---
 
 ### Executive Summary
 
-I am a **Data Analyst** with a background in **public sector data management** working with high-volume, regulation-sensitive datasets (100,000+ records)
+I am a **Data Analyst** with a background in **public sector data management** working with high-volume, regulation-sensitive datasets
 
 
-I understand that data accuracy is not just technical—it is operational. I combine this administrative rigor with advanced technical skills in **Power BI, SQL, and Python** to build dashboards and models that monitor performance, detect risks, and forecast trends.
+I understand that data accuracy is not just technical, it is operational. I combine this administrative rigor with advanced technical skills in **Power BI, SQL, Excel and Python** to build dashboards and models that monitor performance, detect risks, and forecast trends.
 
 
 ### Analytics Portfolio
 
-#### 1. [Pakistan Large Scale Manufacturing (LSM) PowerBI Dashboard](https://github.com/hannanbaig347/pakistan-large-scale-manufacturing-powerBI-dashboard)
+#### 1. [Provincial Enforcement Command Center](https://github.com/hannanbaig347/provincial-enforcement-command-center-powerbi)
+**Domain:** Government Operations, Fraud Detection
+**Tools:** Python (Selenium, Pandas, SciPy), SQLite, Power BI, DAX
+
+Built a data analytics pipeline to detect fraud, hoarding, and revenue leakage in Punjab's price control enforcement system using real scraped market data and a simulated inspection dataset.
+
+- Pipeline Engineering: Scraped legacy government portal, resurrected corrupted supply datasets, and built a local SQLite data warehouse utilizing a Star Schema.
+- Statistical Audit: Applied Z-scores, moving averages, and lagged correlation to simulated magistrate telemetry to detect hoarding anomalies and operational fraud.
+- Business Impact: Quantified simulated actionable revenue leakage and identified high-risk magistrate profiles.
+- Visualization: Delivered findings in a Power BI dashboard with Row-Level Security, drill-through, and What-If simulation
+
+Focus: Data pipelines, statistical anomaly detection, operational auditing.
+
+---
+#### 2. [Pakistan Large Scale Manufacturing (LSM) PowerBI Dashboard](https://github.com/hannanbaig347/pakistan-large-scale-manufacturing-powerBI-dashboard)
 **Domain:** Economic Policy & Industrial Monitoring  
 **Tools:** Power BI, DAX, Power Query, Excel  
 
@@ -31,7 +45,7 @@ Built a structured industrial analytics dashboard analyzing Pakistan’s LSM sec
 Focus: Economic monitoring, sector diagnostics, policy-relevant insights.
 
 ---
-#### 2. Geospatial Air Quality Analytics (MS Thesis)
+#### 3. Geospatial Air Quality Analytics (MS Thesis)
 **Domain:** Environmental Sustainability & Urban Planning  
 **Tools:** Python (Pandas, Numpy, Rasterio, Seaborn, Scikit-Learn, Matplotlib), Satellite Imagery (Sentinel-2), Meteorological Data (ERA5)
 
@@ -68,7 +82,7 @@ Classification & Regression (XGBoost, Random Forest)
 ---
 ### Connect
 
-I am available for **Data Analyst** and roles where I can apply structured thinking to operational and strategic challenges.
+I am available for **Data Analyst** roles where I can apply structured thinking to operational and strategic challenges.
 
 * **Email:** muhammadhannanbaig@gmail.com
-* **LinkedIn:** [Hannan Baig](https://www.linkedin.com/in/hannan-baig-b10320325/)
+* **LinkedIn:** [Hannan Baig](https://www.linkedin.com/in/hannan-baig/)
