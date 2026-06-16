@@ -1,88 +1,155 @@
-<h1 align="center"> Hannan Baig </h1>  
-<h3 align = "center"> Data Analyst | Business Intelligence | Decision Support </h3>
+<h1 align="center"> Hannan Baig </h1>
+<h3 align="center"> Data Analyst | Business Intelligence </h3>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hannan-baig/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadhannanbaig@gmail.com)
----
-
-### Executive Summary
-
-I am a **Data Analyst** with a background in **public sector data management** working with high-volume, regulation-sensitive datasets
-
-
-I understand that data accuracy is not just technical, it is operational. I combine this administrative rigor with advanced technical skills in **Power BI, SQL, Excel and Python** to build dashboards and models that monitor performance, detect risks, and forecast trends.
-
-
-### Analytics Portfolio
-
-#### 1. [Provincial Enforcement Command Center](https://github.com/hannanbaig347/provincial-enforcement-command-center-powerbi)
-**Domain:** Government Operations, Fraud Detection
-**Tools:** Python (Selenium, Pandas, SciPy), SQLite, Power BI, DAX
-
-Built a data analytics pipeline to detect fraud, hoarding, and revenue leakage in Punjab's price control enforcement system using real scraped market data and a simulated inspection dataset.
-
-- Pipeline Engineering: Scraped legacy government portal, resurrected corrupted supply datasets, and built a local SQLite data warehouse utilizing a Star Schema.
-- Statistical Audit: Applied Z-scores, moving averages, and lagged correlation to simulated magistrate telemetry to detect hoarding anomalies and operational fraud.
-- Business Impact: Quantified simulated actionable revenue leakage and identified high-risk magistrate profiles.
-- Visualization: Delivered findings in a Power BI dashboard with Row-Level Security, drill-through, and What-If simulation
-
-Focus: Data pipelines, statistical anomaly detection, operational auditing.
-
----
-#### 2. [Pakistan Large Scale Manufacturing (LSM) PowerBI Dashboard](https://github.com/hannanbaig347/pakistan-large-scale-manufacturing-powerBI-dashboard)
-**Domain:** Economic Policy & Industrial Monitoring  
-**Tools:** Power BI, DAX, Power Query, Excel  
-
-Built a structured industrial analytics dashboard analyzing Pakistan’s LSM sector across 31 industries.  
-
-- Measured weighted growth contributions  
-- Identified high-growth drivers vs. low-performing sectors
-- Revealed structural divergence masked by headline growth rates
-- Designed decision-ready visuals for policy and resource prioritization  
-- Applied DAX, data modeling, and structured ETL logic  
-
-Focus: Economic monitoring, sector diagnostics, policy-relevant insights.
-
----
-#### 3. Geospatial Air Quality Analytics (MS Thesis)
-**Domain:** Environmental Sustainability & Urban Planning  
-**Tools:** Python (Pandas, Numpy, Rasterio, Seaborn, Scikit-Learn, Matplotlib), Satellite Imagery (Sentinel-2), Meteorological Data (ERA5)
-
-Developed a scalable air quality estimation framework for infrastructure-constrained regions using Sentinel-2 and ERA5 datasets..
-* **The Business Problem:** Physical sensors are expensive and scarce, leaving policymakers blind to pollution hotspots.
-* **The Solution:** Integrated satellite imagery and meteorological data to estimate NO2 (Nitrogen Dioxide) levels without ground sensors.
-* **Impact:** Achieved **66% data recovery** for unmonitored regions, providing a low-cost, scalable tool for environmental agencies to target interventions.
+<p align="center">
+  <a href="https://www.linkedin.com/in/hannan-baig/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:muhammadhannanbaig@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-### Other Projects
+I am a data analyst with experience in managing high-volume, regulation-sensitive administrative datasets within the public sector. I bridge the gap between messy operational realities and strategic decision-making. 
 
+I specialize in converting fragmented datasets into **auditable, decision-ready systems** using Power BI, Python, SQL, and Excel.
 
+Rather than building dashboards for reporting, I build systems that answer:
 
-- [**Customer Churn Analysis**](https://github.com/hannanbaig347/Predicting-Customer-Churn-in-Telecom-Using-Machine-Learning) — Predicting customer attrition and gaining retention insights  
-- [**Retail Sales Forecasting**](https://github.com/hannanbaig347/Forecasting-for-a-Retail-Store) — SARIMA & Prophet for business planning  
-- [**Customer Segmentation**](https://github.com/hannanbaig347/customer-value-maximization-pipeline-with-segmentation) — Behavioral clustering for targeted strategy  
-- [**A/B Test Analysis**](https://github.com/hannanbaig347/from-data-to-revenue-leveraging-AB-testing-to-enhance-conversion-and-engagement) — Testing and impact evaluation for website  
-- [**Sentiment Analysis**](https://github.com/hannanbaig347/Customer_Review_Sentiment_Analysis_VADER_TextBlob_LogRegression) — Extracting insights from customer feedback 
+> *What is happening, why it is happening, and what should be done next?*
 
 ---
 
-### Technical Toolkit
+## Featured Projects
 
-**Business Intelligence & Data Modeling**  
-Power BI, Python, SQL, Excel 
+### [1. Provincial Enforcement Command Center](https://github.com/hannanbaig347/provincial-enforcement-command-center-powerbi)
+**Domain:** Government Operations | Fraud Detection | Revenue Leakage  
+**Stack:** Python (Selenium, Pandas, SciPy), SQL, Power BI, DAX  
 
-**Analytics & Statistical Methods**  
-Python (Pandas, NumPy, Scikit-Learn, Statsmodels)  
-Time-Series Forecasting (ARIMA, SARIMA, Prophet)  
-Hypothesis Testing (t-tests, z-tests, confidence intervals)  
-Classification & Regression (XGBoost, Random Forest)
+A full-scale analytics system designed to audit Pakistan’s price enforcement infrastructure using real scraped data and simulated inspection telemetry.
+
+**What I built**
+- End-to-end data pipeline (web scraping → cleaning → warehouse → dashboard)
+- Reconstructed corrupted government datasets using Python engineering logic
+- Built a SQLite star-schema data warehouse for auditability
+- Designed statistical fraud detection system using:
+  - Z-score anomaly detection  
+  - Moving average price deviation analysis  
+  - Behavioral profiling of enforcement officers  
+
+**Key Outcomes**
+- Identified simulated **Rs. 4.7M revenue leakage**
+- Detected high-risk enforcement behavior patterns across 145 officers
+- Flagged systemic hoarding patterns across commodity markets
+- Delivered an executive Power BI monitoring dashboard with drill-down analysis
+
+**Focus:** Fraud detection systems, public sector analytics, statistical auditing
+
+
+
+### [2. Pakistan Large Scale Manufacturing Industrial Dashboard](https://github.com/hannanbaig347/pakistan-large-scale-manufacturing-powerBI-dashboard)
+
+**Domain:** Economic Policy | Industrial Intelligence  
+**Stack:** Power BI, DAX, Power Query, Excel  
+
+A policy intelligence dashboard analyzing Pakistan’s industrial sector across 31 manufacturing industries using official government data.
+
+**What I built**
+- Weighted economic impact model to correct misleading growth signals
+- Star-schema data model for scalable analysis
+- DAX-based contribution metrics to identify real economic drivers
+- Executive-level dashboard for policy interpretation
+
+**Key Outcomes**
+- Revealed **K-shaped industrial recovery pattern**
+- Identified structural decline in industrial inputs despite headline growth
+- Exposed dominance of automobile sector in GDP narrative distortion
+- Enabled sector-level policy prioritization instead of aggregate reporting
+
+**Focus:** Economic modeling, policy analytics, weighted KPI systems
+
+
+### [3.  Multi-Client Operations Intelligence System](https://github.com/hannanbaig347/multi-client-operations-excel-intelligence-system)
+
+**Domain:** Business Intelligence, Operations Analytics & Executive Reporting  
+**Stack:** Excel, Power Query, Power Pivot, DAX, VBA
+
+Built an end-to-end Excel-based BI system that unified operational data from three client products into a single reporting layer, enabling cross-client performance monitoring, risk detection, and automated executive reporting without requiring a dedicated data warehouse or BI platform.
+
+**What I Built:**
+- Designed ETL pipelines in Power Query to clean and standardize multi-source operational data
+- Developed a Power Pivot star schema connecting garage, rental, and app adoption datasets
+- Created DAX measures to identify profitability, operational risk, and user retention patterns
+- Automated dashboard refresh and PDF report generation using VBA
+
+
+**Key Outcomes:**
+- Unified 27,000+ records from three independent business systems
+- Identified high-risk rental properties with combined financial and operational issues
+- Exposed loss-making service categories and mechanic performance gaps
+- Enabled one-click generation of executive-ready PDF report
+
+**Focus:** ETL, Data Modeling, Excel BI, Operational Analytics, Reporting Automation.
+
+
+### [4.  Aviation Operations BI System](https://github.com/hannanbaig347/aviation-operations-BIsystem-oracle)
+
+**Domain:** Aviation Operations, Business Intelligence, Operational Analytics
+
+**Stack:** Oracle Analytics Desktop, Excel, Power Query, Python, K-Means Clustering 
+
+Built an aviation analytics platform on 3 million U.S. flight records to monitor operational performance, identify disruption patterns, and uncover the root causes of delays using business intelligence and unsupervised machine learning.
+
+**What I Built:**
+- Cleaned and prepared 3M flight records using Excel, Power Query, and Oracle Analytics Desktop
+- Developed a three-layer BI solution covering executive KPIs, operational diagnostics, and trend monitoring
+- Built a K-Means++ clustering pipeline to segment flights into distinct operational performance groups
+- Created interactive dashboards with geospatial analysis, drill-down capabilities, and anomaly visualization
+
+
+**Key Outcomes:**
+- Identified that 74.39% of delay minutes originated from controllable airline operations
+- Segmented 395,239 flights into four operational archetypes, including a high-risk disruption cluster
+- Revealed hub dependency risks across major airports such as ATL, DFW, and ORD
+- Highlighted 71 million minutes of ground movement as a significant operational inefficiency
+
+**Focus:** Business Intelligence, Operational Analytics, Machine Learning, Root Cause Analysis, Data Visualization.
+
+### 5. MS Thesis — Geospatial Air Quality Estimation
+**Domain:** Geospatial Analytics, Environmental Data Engineering  
+**Stack:** Python (Pandas, NumPy, Rasterio, Scikit-Learn, Matplotlib), Sentinel-2 Satellites, ERA5 Reanalysis 
+
+Ground sensors for air quality monitoring cost hundreds of thousands of dollars and Pakistan has almost none outside major cities. This thesis asked whether a deep learning model trained on Lahore's data could estimate NO₂ pollution in Quettam a city with zero ground sensors, using only satellite imagery and weather data.
+
+Naive transfer failed catastrophically (R² as low as -17.85). I implemented Domain Adversarial Neural Networks (DANN) to force the model to learn city-invariant features, then built a diagnostic pipeline to correct for spatial translation gaps and magnitude bias inherited from Lahore's higher pollution levels.
+
+Final validated results without using a single Quetta ground-truth training point:
+- Best single-day spatial R²: **0.659** 
+
+- Outperforms the base paper's reported R² of 0.54
+
+**Focus**: Geospatial ML, environmental intelligence, remote sensing analytics
 
 ---
-### Connect
 
-I am available for **Data Analyst** roles where I can apply structured thinking to operational and strategic challenges.
+## Other Projects
 
-* **Email:** muhammadhannanbaig@gmail.com
-* **LinkedIn:** [Hannan Baig](https://www.linkedin.com/in/hannan-baig/)
+| Project | What It Does | Core Methods |
+|---|---|---|
+| [Retail Sales Forecasting](https://github.com/hannanbaig347/Forecasting-for-a-Retail-Store) | 6-month demand forecast with 95% confidence intervals for inventory planning | SARIMAX, Prophet, ARIMA comparison |
+| [Customer Sentiment Analysis](https://github.com/hannanbaig347/Customer_Review_Sentiment_Analysis_VADER_TextBlob_LogRegression) | Classifies 1,000 reviews and identifies root causes of dissatisfaction by product | Logistic Regression (93.5% accuracy), VADER, TextBlob, LDA topic modeling |
+| [Customer Segmentation](https://github.com/hannanbaig347/customer-value-maximization-pipeline-with-segmentation) | RFM-based behavioral clustering for retention and upsell targeting | K-Means, Hierarchical, DBSCAN |
+| [A/B Test Analysis](https://github.com/hannanbaig347/from-data-to-revenue-leveraging-AB-testing-to-enhance-conversion-and-engagement) | Measures conversion lift from a redesigned feature with statistical rigor | Z-test, T-test, power analysis, segment analysis |
+
+---
+
+## Let's Connect
+
+I am actively seeking Data Analyst and Business Intelligence roles where I can take ownership of messy data and build the systems that drive confident, profitable decisions.
+
+* **Email:** [muhammadhannanbaig@gmail.com](mailto:muhammadhannanbaig@gmail.com)
+* **LinkedIn:** [Hannan Baig](https://www.linkedin.com/in/hannanbaig)
+
+
