@@ -24,7 +24,31 @@ Rather than building dashboards for reporting, I build systems that answer:
 
 ## Featured Projects
 
-### [1. Provincial Enforcement Command Center](https://github.com/hannanbaig347/provincial-enforcement-command-center-powerbi)
+### [1. Border Wait Time Analytics: A Real-Time Automated Data Platform for U.S. Land Ports](https://github.com/hannanbaig347/border-wait-time-analytics-fabric-powerbi)
+
+**Domain:** Transportation Analytics | Data Engineering | Predictive Analytics
+
+**Stack:** Microsoft Fabric, PySpark, Delta Lake, Power BI, DAX, Python, Scikit-learn, MLflow
+
+This end-to-end Microsoft Fabric data pipeline ingests live U.S. Customs and Border Protection data, processes it via a PySpark Medallion architecture to forecast wait times using machine learning, and powers a Direct Lake Power BI model to help decision-makers monitor congestion and operational trends.
+
+**What I built**:
+
+- Built an end-to-end Microsoft Fabric data platform ingesting live CBP border wait time data through automated pipelines
+- Implemented a Bronze–Silver–Gold Medallion architecture and designed a star schema for Direct Lake analytics
+- Developed a Random Forest forecasting model using historical traffic patterns to predict future border wait times
+- Created an interactive Power BI solution for monitoring congestion, lane performance, and port-level operations
+
+**Key Outcomes**:
+
+- Automated processing of live hourly border telemetry into decision-ready analytical datasets
+- Built a scalable Lakehouse with four dimension tables and three fact tables for operational reporting
+- Achieved R² = 0.795 with a 40.8% reduction in MAE compared to a baseline forecasting approach
+- Delivered executive dashboards enabling real-time monitoring of congestion and operational bottlenecks
+
+Focus: Microsoft Fabric, Lakehouse Architecture, Business Intelligence, Predictive Analytics
+
+### [2. Provincial Enforcement Command Center](https://github.com/hannanbaig347/provincial-enforcement-command-center-powerbi)
 **Domain:** Government Operations | Fraud Detection | Revenue Leakage  
 **Stack:** Python (Selenium, Pandas, SciPy), SQL, Power BI, DAX  
 
@@ -49,7 +73,7 @@ A full-scale analytics system designed to audit Pakistan’s price enforcement i
 
 
 
-### [2. Pakistan Large Scale Manufacturing Industrial Dashboard](https://github.com/hannanbaig347/pakistan-large-scale-manufacturing-powerBI-dashboard)
+### [3. Pakistan Large Scale Manufacturing Industrial Dashboard](https://github.com/hannanbaig347/pakistan-large-scale-manufacturing-powerBI-dashboard)
 
 **Domain:** Economic Policy | Industrial Intelligence  
 **Stack:** Power BI, DAX, Power Query, Excel  
@@ -71,7 +95,7 @@ A policy intelligence dashboard analyzing Pakistan’s industrial sector across 
 **Focus:** Economic modeling, policy analytics, weighted KPI systems
 
 
-### [3.  Multi-Client Operations Intelligence System](https://github.com/hannanbaig347/multi-client-operations-excel-intelligence-system)
+### [4. Multi-Client Operations Intelligence System](https://github.com/hannanbaig347/multi-client-operations-excel-intelligence-system)
 
 **Domain:** Business Intelligence, Operations Analytics & Executive Reporting  
 **Stack:** Excel, Power Query, Power Pivot, DAX, VBA
@@ -94,7 +118,7 @@ Built an end-to-end Excel-based BI system that unified operational data from thr
 **Focus:** ETL, Data Modeling, Excel BI, Operational Analytics, Reporting Automation.
 
 
-### [4.  Aviation Operations BI System](https://github.com/hannanbaig347/aviation-operations-BIsystem-oracle)
+### [5. Aviation Operations BI System](https://github.com/hannanbaig347/aviation-operations-BIsystem-oracle)
 
 **Domain:** Aviation Operations, Business Intelligence, Operational Analytics
 
@@ -117,7 +141,7 @@ Built an aviation analytics platform on 3 million U.S. flight records to monitor
 
 **Focus:** Business Intelligence, Operational Analytics, Machine Learning, Root Cause Analysis, Data Visualization.
 
-### 5. MS Thesis — Geospatial Air Quality Estimation
+### 6. MS Thesis — Geospatial Air Quality Estimation
 **Domain:** Geospatial Analytics, Environmental Data Engineering  
 **Stack:** Python (Pandas, NumPy, Rasterio, Scikit-Learn, Matplotlib), Sentinel-2 Satellites, ERA5 Reanalysis 
 
