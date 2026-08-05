@@ -174,6 +174,6 @@ Final validated results without using a single Quetta ground-truth training poin
 I am actively seeking Data Analyst and Business Intelligence roles where I can take ownership of messy data and build the systems that drive confident, profitable decisions.
 
 * **Email:** [muhammadhannanbaig@gmail.com](mailto:muhammadhannanbaig@gmail.com)
-* **LinkedIn:** [Hannan Baig](https://www.linkedin.com/in/hannanbaig)
+* **LinkedIn:** [Hannan Baig](https://www.linkedin.com/in/hannan-baig/)
 
 
